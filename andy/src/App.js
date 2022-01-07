@@ -3,6 +3,7 @@
 import Navbar from "./components/Navbar.jsx";
 import Banner from "./full-images/banner.png";
 import Carousel from "./components/Carousel.jsx";
+import Footer from "./components/Footer.jsx";
 import "./App.css";
 
 
@@ -12,6 +13,7 @@ function App() {
      <Navbar />
      <img className="banner" src={Banner}/>
      <Carousel />
+     <Footer />
     </div>
   );
 }
