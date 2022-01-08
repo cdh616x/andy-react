@@ -15,6 +15,10 @@ h1 {
   width: 33%;
 }
 
+.card-title {
+  text-align: center;
+}
+
 .footer {
   width: 30%;
 }
