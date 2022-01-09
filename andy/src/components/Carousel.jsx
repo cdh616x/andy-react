@@ -21,6 +21,7 @@ import homecoming from "../thumbnail-images/homecoming.jpg";
 
 import logo from "../full-images/logo.png";
 import banner from "../full-images/banner.png";
+
 import CarouselItem from "./CarouselItem.jsx";
 
 export default function Carousel() {
@@ -55,21 +56,7 @@ export default function Carousel() {
     <CarouselItem src={homecoming} title="A Young Knight's Homecoming"/>
     </div>
   </div>
-  <div className="carousel-item" data-bs-interval="8000">
-   <div className="row">
-   <CarouselItem />
-   <CarouselItem />
-   <CarouselItem />
-   </div>
- </div>
- <div className="carousel-item" data-bs-interval="8000">
-  <div className="row">
-  <CarouselItem />
-  <CarouselItem />
-  <CarouselItem />
-  </div>
 </div>
   </div>
-</div>
   );
 }

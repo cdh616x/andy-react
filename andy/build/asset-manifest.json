@@ -1,18 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.985ebf75.css",
-    "main.js": "/static/js/main.813e398d.js",
+    "main.css": "/static/css/main.9489a7cb.css",
+    "main.js": "/static/js/main.38e4f309.js",
     "static/js/787.48bacf42.chunk.js": "/static/js/787.48bacf42.chunk.js",
+    "static/media/knight-study.jpg": "/static/media/knight-study.fe280fad78d706b68742.jpg",
+    "static/media/jungle-king.jpg": "/static/media/jungle-king.0840335780a7e524d5ca.jpg",
+    "static/media/metroid.jpg": "/static/media/metroid.4f0056e6b8494d2b01cb.jpg",
     "static/media/banner.png": "/static/media/banner.55e61feb3047b73283ea.png",
     "static/media/logo.png": "/static/media/logo.a5a3819fe6d48048c705.png",
+    "static/media/knight-sword.jpg": "/static/media/knight-sword.6e6e54e8d748feac9c18.jpg",
+    "static/media/king.jpg": "/static/media/king.c6947737fed8bf2ca42f.jpg",
+    "static/media/fairyprincess.jpg": "/static/media/fairyprincess.f0e4e6125f417ed70386.jpg",
+    "static/media/andy.png": "/static/media/andy.287d02eb1bf16341fd68.png",
+    "static/media/neon-sign.jpg": "/static/media/neon-sign.75ca4844c59c73744e9a.jpg",
+    "static/media/homecoming.jpg": "/static/media/homecoming.04b6b1f0979fed30843c.jpg",
+    "static/media/archer.jpg": "/static/media/archer.292a2807829b3b2f3cf1.jpg",
+    "static/media/battle.jpg": "/static/media/battle.2e30a7cfbd37c8f8687c.jpg",
+    "static/media/isle-of-the-dead.jpg": "/static/media/isle-of-the-dead.fba9c6b11be1e4aff0d6.jpg",
+    "static/media/deaths-procession.jpg": "/static/media/deaths-procession.b337b0549e765a50db6d.jpg",
+    "static/media/arrowhead.jpg": "/static/media/arrowhead.e3b3f2054af3326aa3f2.jpg",
+    "static/media/lost-somehow.jpg": "/static/media/lost-somehow.9e7712c5ec681259b962.jpg",
     "static/media/banner_text.png": "/static/media/banner_text.bbe2c1092084f70b20b6.png",
     "index.html": "/index.html",
-    "main.985ebf75.css.map": "/static/css/main.985ebf75.css.map",
-    "main.813e398d.js.map": "/static/js/main.813e398d.js.map",
+    "main.9489a7cb.css.map": "/static/css/main.9489a7cb.css.map",
+    "main.38e4f309.js.map": "/static/js/main.38e4f309.js.map",
     "787.48bacf42.chunk.js.map": "/static/js/787.48bacf42.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.985ebf75.css",
-    "static/js/main.813e398d.js"
+    "static/css/main.9489a7cb.css",
+    "static/js/main.38e4f309.js"
   ]
 }

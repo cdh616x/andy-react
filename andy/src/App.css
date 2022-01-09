@@ -3,6 +3,16 @@ h1 {
   text-align: center;
 }
 
+.shop-button {
+  background-color: green;
+  border-radius: 15px;
+}
+
+.shop:hover {
+  background-color: red;
+  border-radius: 15px;
+}
+
 .banner {
   width: 100%;
 }
@@ -17,6 +27,23 @@ h1 {
 
 .card-title {
   text-align: center;
+}
+
+.about {
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+
+.about-me {
+  font-size: 1.8vw;
+  padding-left: 10%;
+  padding-right: 10%;
+  text-align: justify;
+}
+
+.andy-pic {
+  height: 50vw;
+  align-content: center;
 }
 
 .footer {
