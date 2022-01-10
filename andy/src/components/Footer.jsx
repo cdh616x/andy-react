@@ -8,7 +8,7 @@ export default function Footer() {
   return (
     <div className="text-center">
     <img className="footer mx-auto" src={FooterImg} />
-    <h5>Andy Shaw © {year + 1900}</h5>
+    <h5 className="copyright">Andy Shaw © {year + 1900}</h5>
     </div>
   );
 }
