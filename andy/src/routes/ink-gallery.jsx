@@ -29,6 +29,8 @@ import serpent from "../thumbnail-images/serpent-slayer.jpg";
 import stalker from "../thumbnail-images/stalker.png";
 import stalker2 from "../thumbnail-images/stalker-2.jpg";
 import theodon from "../thumbnail-images/theodon-poisoned.jpg";
+import cowboy from "../full-images/ink/cowboy.jpeg";
+import forest from "../full-images/ink/forest-path.jpeg";
 
 export default function InkGallery() {
   return (
@@ -38,35 +40,37 @@ export default function InkGallery() {
     <div className="row">
      <GalleryItem src={arrowhead} title="Arrowhead" href="/ink-gallery/arrowhead" />
      <GalleryItem src={knightsword} title="Knight Presenting his Sword" href="/ink-gallery/knight-sword" />
-     <GalleryItem src={isle} title="Isle of the Dead" />
+     <GalleryItem src={isle} title="Isle of the Dead" href="/ink-gallery/isle-of-the-dead" />
     </div>
     <div className="row">
-     <GalleryItem src={archer} title="Archer" />
-     <GalleryItem src={fairy} title="Fairy" />
-     <GalleryItem src={lost} title="Lost Somehow" />
+     <GalleryItem src={archer} title="Archer" href="/ink-gallery/archer" />
+     <GalleryItem src={fairy} title="Fairy Princess" href ="/ink-gallery/fairy-princess" />
+     <GalleryItem src={lost} title="Lost Somehow" href="/ink-gallery/lost-somehow" />
     </div>
     <div className="row">
-     <GalleryItem src={battle} title="Battle" />
-     <GalleryItem src={deathsprocession} title="Death's Procession" />
-     <GalleryItem src={king} title="King" />
+     <GalleryItem src={battle} title="Battle" href="/ink-gallery/battle" />
+     <GalleryItem src={deathsprocession} title="Death's Procession" href="/ink-gallery/deaths-procession" />
+     <GalleryItem src={king} title="King" href="/ink-gallery/king" />
     </div>
     <div className="row">
-     <GalleryItem src={rider} title="Black Rider" />
-     <GalleryItem src={crossroads} title="Knight at the Crossroads" />
-     <GalleryItem src={knight} title="Knight" />
+     <GalleryItem src={rider} title="Black Rider" href="/ink-gallery/black-rider" />
+     <GalleryItem src={crossroads} title="Knight at the Crossroads" href="/ink-gallery/crossroads" />
+     <GalleryItem src={knight} title="Knight" href="/ink-gallery/knight" />
     </div>
     <div className="row">
-     <GalleryItem src={knightCombat} title="Knights in Combat" />
-     <GalleryItem src={thorns} title="Prince of Thorns" />
-     <GalleryItem src={saxophone} title="Saxophone" />
+     <GalleryItem src={knightCombat} title="Knights in Combat" href="/ink-gallery/knights-in-combat" />
+     <GalleryItem src={thorns} title="Prince of Thorns" href="/ink-gallery/prince-of-thorns" />
+     <GalleryItem src={saxophone} title="Saxophone" href="/ink-gallery/saxophone" />
     </div>
     <div className="row">
-     <GalleryItem src={serpent} title="Serpent Slayer" />
-     <GalleryItem src={stalker} title="Stalker" />
-     <GalleryItem src={stalker2} title="Stalker II" />
+     <GalleryItem src={serpent} title="Serpent Slayer" href="/ink-gallery/serpent-slayer" />
+     <GalleryItem src={stalker} title="Stalker" href="/ink-gallery/stalker" />
+     <GalleryItem src={stalker2} title="Stalker II" href="/ink-gallery/stalker2" />
     </div>
     <div className="row">
-     <GalleryItem src={theodon} title="King Theodon, Poisoned" />
+     <GalleryItem src={theodon} title="King Theodon, Poisoned" href="/ink-gallery/theodon" />
+     <GalleryItem src={cowboy} title="Cowboy Contemplates the Storm" href="/ink-gallery/cowboy" />
+     <GalleryItem src={forest} title="Forest Path" href="/ink-gallery/forest-path" />
     </div>
     <Footer />
     </>
