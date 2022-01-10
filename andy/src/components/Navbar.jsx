@@ -8,7 +8,7 @@ export default function Navbar() {
     <>
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
      <div className="container-fluid">
-      <a className="navbar-brand" href="#">
+      <a className="navbar-brand" href="/">
        <img id="icon" src={Icon} />
 
       </a>
@@ -27,7 +27,7 @@ export default function Navbar() {
             Galleries
           </a>
           <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a className="dropdown-item" href="#">Ink Drawings</a></li>
+            <li><a className="dropdown-item" href="/ink-gallery">Ink Drawings</a></li>
             <li><a className="dropdown-item" href="#">Paintings</a></li>
           </ul>
         </li>

@@ -1,5 +1,10 @@
 h1 {
+  font-family: "Kudajets", sans-serif;
   text-align: center;
+}
+
+.page-title {
+  padding-top: 5%;
 }
 
 i {

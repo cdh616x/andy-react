@@ -11,7 +11,7 @@ export default function Footer() {
     <img className="footer mx-auto" src={FooterImg} />
     </div>
     <h2>
-    <a href="#">
+    <a href="https://www.instagram.com/andyshawillustrations/" target="_blank">
     <i class="fab fa-instagram-square"></i>
     </a>
     </h2>
