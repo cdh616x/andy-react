@@ -5,6 +5,7 @@ h1 {
 
 .page-title {
   padding-top: 5%;
+  padding-bottom: 5%;
 }
 
 i {
@@ -51,6 +52,11 @@ body {
 
 .card-title:hover {
   text-decoration: underline;
+}
+
+.work-description {
+  font-family: "Kudajets", sans-serif;
+  text-align: center;
 }
 
 .navbar {

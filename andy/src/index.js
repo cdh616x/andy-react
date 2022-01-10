@@ -14,6 +14,8 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 import InkGallery from "./routes/ink-gallery.jsx";
+import Arrowhead from "./routes/pages/arrowhead.jsx";
+import KnightSword from "./routes/pages/knight-presenting-his-sword.jsx";
 
 const rootElement = document.getElementById("root");
 render (
@@ -21,6 +23,8 @@ render (
    <Routes>
     <Route path="/" element={<App />} />
     <Route path="/ink-gallery" element={<InkGallery />} />
+    <Route path="/ink-gallery/arrowhead" element={<Arrowhead />} />
+    <Route path="/ink-gallery/knight-sword" element={<KnightSword />} />
   </Routes>
  </BrowserRouter>,
   document.getElementById('root')
