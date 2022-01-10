@@ -2,6 +2,14 @@ h1 {
   text-align: center;
 }
 
+i {
+  color: #6F9A40;
+}
+
+i:hover {
+  color: red;
+}
+
 body {
   background-color: #EEEBDD;
 }
