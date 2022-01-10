@@ -41,7 +41,9 @@ render (
   <BrowserRouter>
    <Routes>
     <Route path="/" element={<App />} />
+
     <Route path="/ink-gallery" element={<InkGallery />} />
+    
     <Route path="/ink-gallery/arrowhead" element={<Arrowhead />} />
     <Route path="/ink-gallery/knight-sword" element={<KnightSword />} />
     <Route path="/ink-gallery/archer" element={<Archer />} />
