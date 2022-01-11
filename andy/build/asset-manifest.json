@@ -1,11 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.2dfedc86.css",
-    "main.js": "/static/js/main.a2e9ea80.js",
+    "main.js": "/static/js/main.e5b391e6.js",
     "static/js/787.48bacf42.chunk.js": "/static/js/787.48bacf42.chunk.js",
+    "static/media/self-portrait.jpg": "/static/media/self-portrait.b8a26df553d7779ad920.jpg",
     "static/media/knight-study.jpg": "/static/media/knight-study.fe280fad78d706b68742.jpg",
     "static/media/crossroad.jpeg": "/static/media/crossroad.11d6157406258f945948.jpeg",
     "static/media/jungle-king.jpg": "/static/media/jungle-king.0840335780a7e524d5ca.jpg",
+    "static/media/waterhouse.jpg": "/static/media/waterhouse.659de4720858bd5fe506.jpg",
     "static/media/metroid.jpg": "/static/media/metroid.4f0056e6b8494d2b01cb.jpg",
     "static/media/forest-path.jpeg": "/static/media/forest-path.70a6e318c10c05e4f5b0.jpeg",
     "static/media/serpent-slayer.jpg": "/static/media/serpent-slayer.1b07741c6bf2a2a3c429.jpg",
@@ -17,15 +19,18 @@
     "static/media/king.jpg": "/static/media/king.c6947737fed8bf2ca42f.jpg",
     "static/media/fairyprincess.jpg": "/static/media/fairyprincess.f0e4e6125f417ed70386.jpg",
     "static/media/serpent-slayer.jpeg": "/static/media/serpent-slayer.c6406a141cf701210c57.jpeg",
+    "static/media/falling-down.jpg": "/static/media/falling-down.b0f88c6fd36e51ed1aab.jpg",
     "static/media/andy.png": "/static/media/andy.287d02eb1bf16341fd68.png",
     "static/media/saxophone.jpg": "/static/media/saxophone.e56f5f00268ccaea0bad.jpg",
     "static/media/theodon-poisoned.jpg": "/static/media/theodon-poisoned.a4d8e44126a4caff9411.jpg",
     "static/media/knights-in-combat.jpg": "/static/media/knights-in-combat.1bfb610048d5b628ff3c.jpg",
     "static/media/neon-sign.jpg": "/static/media/neon-sign.75ca4844c59c73744e9a.jpg",
     "static/media/homecoming.jpg": "/static/media/homecoming.04b6b1f0979fed30843c.jpg",
+    "static/media/knights-homecoming.jpg": "/static/media/knights-homecoming.04b6b1f0979fed30843c.jpg",
     "static/media/knight-sword.jpeg": "/static/media/knight-sword.a80acdafd8a7678cc9fe.jpeg",
     "static/media/stalker-2.jpg": "/static/media/stalker-2.4c5a0ee9ab4fcf126c0a.jpg",
     "static/media/archer.jpg": "/static/media/archer.292a2807829b3b2f3cf1.jpg",
+    "static/media/and-he-was.jpg": "/static/media/and-he-was.7bcbfe59976e1c4a4df4.jpg",
     "static/media/saxophone.png": "/static/media/saxophone.3e390fd46122a20b19a2.png",
     "static/media/stalker2.jpeg": "/static/media/stalker2.d7af419fe2f2462b5898.jpeg",
     "static/media/battle.jpg": "/static/media/battle.2e30a7cfbd37c8f8687c.jpg",
@@ -34,6 +39,7 @@
     "static/media/deaths-procession.jpg": "/static/media/deaths-procession.b337b0549e765a50db6d.jpg",
     "static/media/king-theodon-poisoned.jpeg": "/static/media/king-theodon-poisoned.2055cebb915e82ffe5d5.jpeg",
     "static/media/fairy-princess.png": "/static/media/fairy-princess.2f0114d1bc991e0e9921.png",
+    "static/media/noble-peasant.jpg": "/static/media/noble-peasant.31efec7c52afab5d6727.jpg",
     "static/media/arrowhead.jpg": "/static/media/arrowhead.e3b3f2054af3326aa3f2.jpg",
     "static/media/stalker.png": "/static/media/stalker.173233cd1ec695040965.png",
     "static/media/prince-of-thorns.jpeg": "/static/media/prince-of-thorns.82d10999128fd4e8e047.jpeg",
@@ -51,11 +57,11 @@
     "static/media/knight2.jpeg": "/static/media/knight2.2ec17f76ee6939bfc2b2.jpeg",
     "index.html": "/index.html",
     "main.2dfedc86.css.map": "/static/css/main.2dfedc86.css.map",
-    "main.a2e9ea80.js.map": "/static/js/main.a2e9ea80.js.map",
+    "main.e5b391e6.js.map": "/static/js/main.e5b391e6.js.map",
     "787.48bacf42.chunk.js.map": "/static/js/787.48bacf42.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2dfedc86.css",
-    "static/js/main.a2e9ea80.js"
+    "static/js/main.e5b391e6.js"
   ]
 }

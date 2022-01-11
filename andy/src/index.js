@@ -14,7 +14,9 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 import InkGallery from "./routes/ink-gallery.jsx";
+import Paintings from "./routes/paintings.jsx";
 import Shop from "./routes/shop.jsx";
+
 import Arrowhead from "./routes/pages/arrowhead.jsx";
 import KnightSword from "./routes/pages/knight-presenting-his-sword.jsx";
 import Archer from "./routes/pages/archer.jsx";
@@ -37,6 +39,19 @@ import Theodon from "./routes/pages/king-theodon.jsx";
 import Cowboy from "./routes/pages/cowboy.jsx";
 import Forest from "./routes/pages/forest-path.jsx";
 
+import Andy from "./routes/pages/and-he-was.jsx";
+import FallingDown from "./routes/pages/falling-down.jsx";
+import Homecoming from "./routes/pages/knights-homecoming.jsx";
+import Self from "./routes/pages/self-portrait.jsx";
+import KnightStudy from "./routes/pages/knight-study.jsx";
+import Metroid from "./routes/pages/metroid.jsx";
+import Neon from "./routes/pages/neon-sign.jsx";
+import Noble from "./routes/pages/noble-peasant.jsx";
+import Jungle from "./routes/pages/jungle-king.jsx";
+import Waterhouse from "./routes/pages/waterhouse.jsx";
+
+
+
 const rootElement = document.getElementById("root");
 render (
   <BrowserRouter>
@@ -44,6 +59,7 @@ render (
     <Route path="/" element={<App />} />
 
     <Route path="/ink-gallery" element={<InkGallery />} />
+    <Route path="/paintings" element={<Paintings />} />
     <Route path="/shop" element={<Shop />} />
 
     <Route path="/ink-gallery/arrowhead" element={<Arrowhead />} />
@@ -67,6 +83,19 @@ render (
     <Route path="/ink-gallery/theodon" element={<Theodon />} />
     <Route path="/ink-gallery/cowboy" element={<Cowboy />} />
     <Route path="/ink-gallery/forest-path" element={<Forest />} />
+
+    <Route path="/paintings/and-he-was" element={<Andy />} />
+    <Route path="/paintings/falling-down" element={<FallingDown />} />
+    <Route path="/paintings/knights-homecoming" element={<Homecoming />} />
+    <Route path="/paintings/self-portrait" element={<Self />} />
+    <Route path="/paintings/knight-study" element={<KnightStudy />} />
+    <Route path="/paintings/metroid" element={<Metroid />} />
+    <Route path="/paintings/neon-sign" element={<Neon />} />
+    <Route path="/paintings/noble-peasant" element={<Noble />} />
+    <Route path="/paintings/jungle-king" element={<Jungle />} />
+    <Route path="/paintings/waterhouse" element={<Waterhouse />} />
+
+
   </Routes>
  </BrowserRouter>,
   document.getElementById('root')
