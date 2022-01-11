@@ -32,7 +32,7 @@ export default function Navbar() {
           </ul>
         </li>
         <li className="nav-item shop-button">
-          <a className="nav-link shop" href="#">Shop</a>
+          <a className="nav-link shop" href="/shop">Shop</a>
         </li>
       </ul>
     </div>
