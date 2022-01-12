@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/andy-react/static/css/main.2dfedc86.css",
-    "main.js": "/andy-react/static/js/main.61c6c449.js",
+    "main.js": "/andy-react/static/js/main.f1455576.js",
     "static/js/787.48bacf42.chunk.js": "/andy-react/static/js/787.48bacf42.chunk.js",
     "static/media/self-portrait.jpg": "/andy-react/static/media/self-portrait.b8a26df553d7779ad920.jpg",
     "static/media/knight-study.jpg": "/andy-react/static/media/knight-study.fe280fad78d706b68742.jpg",
@@ -57,11 +57,11 @@
     "static/media/knight2.jpeg": "/andy-react/static/media/knight2.2ec17f76ee6939bfc2b2.jpeg",
     "index.html": "/andy-react/index.html",
     "main.2dfedc86.css.map": "/andy-react/static/css/main.2dfedc86.css.map",
-    "main.61c6c449.js.map": "/andy-react/static/js/main.61c6c449.js.map",
+    "main.f1455576.js.map": "/andy-react/static/js/main.f1455576.js.map",
     "787.48bacf42.chunk.js.map": "/andy-react/static/js/787.48bacf42.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2dfedc86.css",
-    "static/js/main.61c6c449.js"
+    "static/js/main.f1455576.js"
   ]
 }
