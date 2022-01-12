@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/andy-react/static/css/main.2dfedc86.css",
-    "main.js": "/andy-react/static/js/main.3faa0116.js",
+    "main.js": "/andy-react/static/js/main.b8d7b69b.js",
     "static/js/787.48bacf42.chunk.js": "/andy-react/static/js/787.48bacf42.chunk.js",
     "static/media/self-portrait.jpg": "/andy-react/static/media/self-portrait.b8a26df553d7779ad920.jpg",
     "static/media/knight-study.jpg": "/andy-react/static/media/knight-study.fe280fad78d706b68742.jpg",
@@ -48,7 +48,6 @@
     "static/media/prince-thumb2.jpg": "/andy-react/static/media/prince-thumb2.52444a2e082587ea1328.jpg",
     "static/media/noble-peasant.jpg": "/andy-react/static/media/noble-peasant.31efec7c52afab5d6727.jpg",
     "static/media/arrowhead.jpg": "/andy-react/static/media/arrowhead.e3b3f2054af3326aa3f2.jpg",
-    "static/media/stalker.png": "/andy-react/static/media/stalker.173233cd1ec695040965.png",
     "static/media/prince-of-thorns.jpeg": "/andy-react/static/media/prince-of-thorns.6b8ae02d28efa00a030b.jpeg",
     "static/media/desk2.jpg": "/andy-react/static/media/desk2.7bbbb8798e09fc996ba1.jpg",
     "static/media/knight-study.jpeg": "/andy-react/static/media/knight-study.2838cb96c28d63a38130.jpeg",
@@ -73,11 +72,11 @@
     "static/media/stalker.jpg": "/andy-react/static/media/stalker.50a8457b091c940d54a4.jpg",
     "index.html": "/andy-react/index.html",
     "main.2dfedc86.css.map": "/andy-react/static/css/main.2dfedc86.css.map",
-    "main.3faa0116.js.map": "/andy-react/static/js/main.3faa0116.js.map",
+    "main.b8d7b69b.js.map": "/andy-react/static/js/main.b8d7b69b.js.map",
     "787.48bacf42.chunk.js.map": "/andy-react/static/js/787.48bacf42.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2dfedc86.css",
-    "static/js/main.3faa0116.js"
+    "static/js/main.b8d7b69b.js"
   ]
 }
