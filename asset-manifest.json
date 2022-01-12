@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/andy-react/static/css/main.2dfedc86.css",
-    "main.js": "/andy-react/static/js/main.e66aef20.js",
+    "main.js": "/andy-react/static/js/main.3cf92c31.js",
     "static/js/787.48bacf42.chunk.js": "/andy-react/static/js/787.48bacf42.chunk.js",
     "static/media/self-portrait.jpg": "/andy-react/static/media/self-portrait.b8a26df553d7779ad920.jpg",
     "static/media/knight-study.jpg": "/andy-react/static/media/knight-study.fe280fad78d706b68742.jpg",
@@ -14,9 +14,11 @@
     "static/media/self-portrait.jpeg": "/andy-react/static/media/self-portrait.f95ec5d12e2c50b6667d.jpeg",
     "static/media/metroid.jpg": "/andy-react/static/media/metroid.4f0056e6b8494d2b01cb.jpg",
     "static/media/forest-path.jpeg": "/andy-react/static/media/forest-path.70a6e318c10c05e4f5b0.jpeg",
+    "static/media/brush-thumb.png": "/andy-react/static/media/brush-thumb.a77c79929167b5551527.png",
     "static/media/serpent-slayer.jpg": "/andy-react/static/media/serpent-slayer.1b07741c6bf2a2a3c429.jpg",
     "static/media/banner.png": "/andy-react/static/media/banner.55e61feb3047b73283ea.png",
     "static/media/deaths-procession.png": "/andy-react/static/media/deaths-procession.0922faeca6602191f6fc.png",
+    "static/media/vestig-thumb.png": "/andy-react/static/media/vestig-thumb.8c3a3702ca17e5f4391c.png",
     "static/media/crossroads.jpg": "/andy-react/static/media/crossroads.57b0fb2aec10064b5915.jpg",
     "static/media/logo.png": "/andy-react/static/media/logo.a5a3819fe6d48048c705.png",
     "static/media/knight-sword.jpg": "/andy-react/static/media/knight-sword.6e6e54e8d748feac9c18.jpg",
@@ -38,6 +40,7 @@
     "static/media/and-he-was.jpg": "/andy-react/static/media/and-he-was.7bcbfe59976e1c4a4df4.jpg",
     "static/media/stalker1.jpg": "/andy-react/static/media/stalker1.742e565289805605c299.jpg",
     "static/media/saxophone.png": "/andy-react/static/media/saxophone.3e390fd46122a20b19a2.png",
+    "static/media/knight-woodcut.jpeg": "/andy-react/static/media/knight-woodcut.0126f524833330890f00.jpeg",
     "static/media/woodcut2.jpg": "/andy-react/static/media/woodcut2.892de603fe084a115d48.jpg",
     "static/media/stalker2.jpeg": "/andy-react/static/media/stalker2.d7af419fe2f2462b5898.jpeg",
     "static/media/battle.jpg": "/andy-react/static/media/battle.2e30a7cfbd37c8f8687c.jpg",
@@ -51,6 +54,7 @@
     "static/media/forest1.jpg": "/andy-react/static/media/forest1.8c9971cac247e5eeda06.jpg",
     "static/media/noble-peasant.jpg": "/andy-react/static/media/noble-peasant.31efec7c52afab5d6727.jpg",
     "static/media/arrowhead.jpg": "/andy-react/static/media/arrowhead.e3b3f2054af3326aa3f2.jpg",
+    "static/media/ranger.jpeg": "/andy-react/static/media/ranger.68554ded8f06d420e125.jpeg",
     "static/media/prince-of-thorns.jpeg": "/andy-react/static/media/prince-of-thorns.6b8ae02d28efa00a030b.jpeg",
     "static/media/desk2.jpg": "/andy-react/static/media/desk2.7bbbb8798e09fc996ba1.jpg",
     "static/media/knight-study.jpeg": "/andy-react/static/media/knight-study.2838cb96c28d63a38130.jpeg",
@@ -59,8 +63,13 @@
     "static/media/lost-somehow.jpg": "/andy-react/static/media/lost-somehow.9e7712c5ec681259b962.jpg",
     "static/media/ranger2.jpg": "/andy-react/static/media/ranger2.f4526681ab541b41c1ee.jpg",
     "static/media/archer.jpeg": "/andy-react/static/media/archer.4f99ee3fed9135590e09.jpeg",
+    "static/media/fallen-skies.jpeg": "/andy-react/static/media/fallen-skies.4414b6382b9cfc46fb5e.jpeg",
+    "static/media/painted-world.jpeg": "/andy-react/static/media/painted-world.77ce8a2dba1dfc342d6e.jpeg",
+    "static/media/pirate-ship.jpeg": "/andy-react/static/media/pirate-ship.d7926d49b5294ea76b1d.jpeg",
+    "static/media/still-life.jpeg": "/andy-react/static/media/still-life.13868a75a529d935d766.jpeg",
     "static/media/lost-somehow.jpeg": "/andy-react/static/media/lost-somehow.43dad1daefe5e7c9a23f.jpeg",
     "static/media/jungle-lord.jpeg": "/andy-react/static/media/jungle-lord.faea674fea8f143dfb82.jpeg",
+    "static/media/crown-of-serpents.jpeg": "/andy-react/static/media/crown-of-serpents.cb6000343d2c431f06ef.jpeg",
     "static/media/stalker.jpeg": "/andy-react/static/media/stalker.c15dc87870921cb94134.jpeg",
     "static/media/black-rider.jpeg": "/andy-react/static/media/black-rider.fefdab19b3f1a964ec87.jpeg",
     "static/media/banner_text.png": "/andy-react/static/media/banner_text.bbe2c1092084f70b20b6.png",
@@ -72,11 +81,11 @@
     "static/media/knight2.jpeg": "/andy-react/static/media/knight2.2ec17f76ee6939bfc2b2.jpeg",
     "index.html": "/andy-react/index.html",
     "main.2dfedc86.css.map": "/andy-react/static/css/main.2dfedc86.css.map",
-    "main.e66aef20.js.map": "/andy-react/static/js/main.e66aef20.js.map",
+    "main.3cf92c31.js.map": "/andy-react/static/js/main.3cf92c31.js.map",
     "787.48bacf42.chunk.js.map": "/andy-react/static/js/787.48bacf42.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2dfedc86.css",
-    "static/js/main.e66aef20.js"
+    "static/js/main.3cf92c31.js"
   ]
 }
