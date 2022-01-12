@@ -4,8 +4,13 @@ h1 {
 }
 
 .page-title {
-  padding-top: 5%;
-  padding-bottom: 5%;
+  padding-top: 10%;
+  padding-bottom: 2%;
+}
+
+.artwork {
+  padding-left: 20%;
+  padding-right: 20%;
 }
 
 .shop-title {

@@ -53,6 +53,7 @@ import Woodcut from "./routes/pages/woodcut.jsx";
 import Ranger from "./routes/pages/ranger.jsx";
 import Desk from "./routes/pages/desk.jsx";
 import Vestige from "./routes/pages/vestige.jsx";
+import Brush from "./routes/pages/brush-studies.jsx";
 
 
 
@@ -102,6 +103,7 @@ render (
     <Route path="/paintings/ranger" element={<Ranger />} />
     <Route path="/paintings/desk-still-life" element={<Desk />} />
     <Route path="/paintings/vestige" element={<Vestige />} />
+    <Route path="/paintings/brush-studies" element={<Brush />} />
 
 
   </Routes>

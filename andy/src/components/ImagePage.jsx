@@ -7,7 +7,7 @@ export default function ImagePage(props) {
     <>
     <h1 className="page-title">{props.title}</h1>
     <h1>
-    <img className="img-fluid" src={props.src} />
+    <img className="img-fluid artwork" src={props.src} />
     </h1>
     </>
   );

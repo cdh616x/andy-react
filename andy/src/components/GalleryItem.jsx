@@ -7,7 +7,7 @@ export default function GalleryItem(props) {
     <>
     <div className="card">
      <a href={props.href} target="_blank">
-      <img className="img-fluid mx-auto d-block" src={props.src} />
+      <img className="img-fluid mx-auto" src={props.src} />
      </a>
      <div className="card-title">
      <a href={props.href} target="_blank">
