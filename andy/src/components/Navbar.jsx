@@ -8,7 +8,7 @@ export default function Navbar() {
     <>
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
      <div className="container-fluid">
-      <a className="navbar-brand" href="/">
+      <a className="navbar-brand" href="#/">
        <img id="icon" src={Icon} />
 
       </a>
@@ -19,7 +19,7 @@ export default function Navbar() {
      <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
         <li className="nav-item">
-          <a className="nav-link active" aria-current="page" href="/">Home</a>
+          <a className="nav-link active" aria-current="page" href="#/">Home</a>
         </li>
 
         <li className="nav-item dropdown">
@@ -27,12 +27,12 @@ export default function Navbar() {
             Galleries
           </a>
           <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a className="dropdown-item" href="/ink-gallery">Ink Drawings</a></li>
-            <li><a className="dropdown-item" href="/paintings">Paintings</a></li>
+            <li><a className="dropdown-item" href="#/ink-gallery">Ink Drawings</a></li>
+            <li><a className="dropdown-item" href="#/paintings">Paintings</a></li>
           </ul>
         </li>
         <li className="nav-item shop-button">
-          <a className="nav-link shop" href="/shop">Shop</a>
+          <a className="nav-link shop" href="#/shop">Shop</a>
         </li>
       </ul>
     </div>

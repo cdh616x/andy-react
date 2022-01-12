@@ -2,7 +2,7 @@
 
 import { render } from "react-dom";
 import {
-  BrowserRouter,
+  HashRouter,
   Routes,
   Route
 } from "react-router-dom";
@@ -54,7 +54,7 @@ import Waterhouse from "./routes/pages/waterhouse.jsx";
 
 const rootElement = document.getElementById("root");
 render (
-  <BrowserRouter>
+  <HashRouter>
    <Routes>
     <Route path="/" element={<App />} />
 
@@ -97,7 +97,7 @@ render (
 
 
   </Routes>
- </BrowserRouter>,
+ </HashRouter>,
   document.getElementById('root')
 );
 
