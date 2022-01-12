@@ -21,6 +21,9 @@ import desk from "../../src/thumbnail-images/desk2.jpg";
 import ranger from "../../src/thumbnail-images/ranger2.jpg";
 import woodcut from "../../src/thumbnail-images/woodcut2.jpg";
 
+import vestig from "../../src/thumbnail-images/vestig-thumb.png";
+import brush from "../../src/thumbnail-images/brush-thumb.png";
+
 export default function Painting() {
   return (
     <>
@@ -43,11 +46,13 @@ export default function Painting() {
       </div>
       <div className="row">
        <GalleryItem src={study} title="Knight Study" href="#/paintings/knight-study" />
-       <GalleryItem src={woodcut} title="Knight Woodcut" />
-       <GalleryItem src={ranger} title="Ranger"  />
+       <GalleryItem src={woodcut} title="Knight Woodcut" href="#/paintings/knight-woodcut" />
+       <GalleryItem src={ranger} title="Ranger" href="#/paintings/ranger" />
       </div>
       <div className="row">
-       <GalleryItem src={desk} title="Desk Still Life" />
+       <GalleryItem src={desk} title="Desk Still Life" href="#/paintings/desk-still-life" />
+       <GalleryItem src={vestig} title="Vestige Album Covers" href="#/paintings/vestige" />
+       <GalleryItem src={brush} title="Brush Studies" />
       </div>
      <Footer />
     </>

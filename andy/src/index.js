@@ -49,6 +49,10 @@ import Neon from "./routes/pages/neon-sign.jsx";
 import Noble from "./routes/pages/noble-peasant.jsx";
 import Jungle from "./routes/pages/jungle-king.jsx";
 import Waterhouse from "./routes/pages/waterhouse.jsx";
+import Woodcut from "./routes/pages/woodcut.jsx";
+import Ranger from "./routes/pages/ranger.jsx";
+import Desk from "./routes/pages/desk.jsx";
+import Vestige from "./routes/pages/vestige.jsx";
 
 
 
@@ -94,6 +98,10 @@ render (
     <Route path="/paintings/noble-peasant" element={<Noble />} />
     <Route path="/paintings/jungle-king" element={<Jungle />} />
     <Route path="/paintings/waterhouse" element={<Waterhouse />} />
+    <Route path="/paintings/knight-woodcut" element={<Woodcut />} />
+    <Route path="/paintings/ranger" element={<Ranger />} />
+    <Route path="/paintings/desk-still-life" element={<Desk />} />
+    <Route path="/paintings/vestige" element={<Vestige />} />
 
 
   </Routes>
