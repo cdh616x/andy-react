@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/andy-react/static/css/main.2dfedc86.css",
-    "main.js": "/andy-react/static/js/main.b8d7b69b.js",
+    "main.js": "/andy-react/static/js/main.1051b4fd.js",
     "static/js/787.48bacf42.chunk.js": "/andy-react/static/js/787.48bacf42.chunk.js",
     "static/media/self-portrait.jpg": "/andy-react/static/media/self-portrait.b8a26df553d7779ad920.jpg",
     "static/media/knight-study.jpg": "/andy-react/static/media/knight-study.fe280fad78d706b68742.jpg",
@@ -36,7 +36,9 @@
     "static/media/stalker-2.jpg": "/andy-react/static/media/stalker-2.4c5a0ee9ab4fcf126c0a.jpg",
     "static/media/archer.jpg": "/andy-react/static/media/archer.292a2807829b3b2f3cf1.jpg",
     "static/media/and-he-was.jpg": "/andy-react/static/media/and-he-was.7bcbfe59976e1c4a4df4.jpg",
+    "static/media/stalker1.jpg": "/andy-react/static/media/stalker1.742e565289805605c299.jpg",
     "static/media/saxophone.png": "/andy-react/static/media/saxophone.3e390fd46122a20b19a2.png",
+    "static/media/woodcut2.jpg": "/andy-react/static/media/woodcut2.892de603fe084a115d48.jpg",
     "static/media/stalker2.jpeg": "/andy-react/static/media/stalker2.d7af419fe2f2462b5898.jpeg",
     "static/media/battle.jpg": "/andy-react/static/media/battle.2e30a7cfbd37c8f8687c.jpg",
     "static/media/isle-of-the-dead.jpg": "/andy-react/static/media/isle-of-the-dead.fba9c6b11be1e4aff0d6.jpg",
@@ -46,6 +48,7 @@
     "static/media/king-theodon-poisoned.jpeg": "/andy-react/static/media/king-theodon-poisoned.2055cebb915e82ffe5d5.jpeg",
     "static/media/fairy-princess.png": "/andy-react/static/media/fairy-princess.2f0114d1bc991e0e9921.png",
     "static/media/prince-thumb2.jpg": "/andy-react/static/media/prince-thumb2.52444a2e082587ea1328.jpg",
+    "static/media/forest1.jpg": "/andy-react/static/media/forest1.8c9971cac247e5eeda06.jpg",
     "static/media/noble-peasant.jpg": "/andy-react/static/media/noble-peasant.31efec7c52afab5d6727.jpg",
     "static/media/arrowhead.jpg": "/andy-react/static/media/arrowhead.e3b3f2054af3326aa3f2.jpg",
     "static/media/prince-of-thorns.jpeg": "/andy-react/static/media/prince-of-thorns.6b8ae02d28efa00a030b.jpeg",
@@ -67,16 +70,15 @@
     "static/media/king.jpeg": "/andy-react/static/media/king.e1d8a49957ec9a4ded40.jpeg",
     "static/media/knight.jpeg": "/andy-react/static/media/knight.2ec17f76ee6939bfc2b2.jpeg",
     "static/media/knight2.jpeg": "/andy-react/static/media/knight2.2ec17f76ee6939bfc2b2.jpeg",
-    "static/media/woodcut.jpg": "/andy-react/static/media/woodcut.f88470a42aa2f9c95057.jpg",
     "static/media/forest-path.jpg": "/andy-react/static/media/forest-path.d40c5c5f57c929433e68.jpg",
     "static/media/stalker.jpg": "/andy-react/static/media/stalker.50a8457b091c940d54a4.jpg",
     "index.html": "/andy-react/index.html",
     "main.2dfedc86.css.map": "/andy-react/static/css/main.2dfedc86.css.map",
-    "main.b8d7b69b.js.map": "/andy-react/static/js/main.b8d7b69b.js.map",
+    "main.1051b4fd.js.map": "/andy-react/static/js/main.1051b4fd.js.map",
     "787.48bacf42.chunk.js.map": "/andy-react/static/js/787.48bacf42.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2dfedc86.css",
-    "static/js/main.b8d7b69b.js"
+    "static/js/main.1051b4fd.js"
   ]
 }
