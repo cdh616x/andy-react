@@ -6,7 +6,7 @@ import Navbar from "../../../src/components/Navbar.jsx";
 import Footer from "../../../src/components/Footer.jsx";
 import ImagePage from "../../../src/components/ImagePage.jsx";
 
-import self from "../../../src/thumbnail-images/self-portrait.jpg";
+import self from "../../../src/full-images/paint/self-portrait.jpeg";
 
 export default function Self() {
   return (

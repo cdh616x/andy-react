@@ -6,7 +6,7 @@ import Navbar from "../../../src/components/Navbar.jsx";
 import Footer from "../../../src/components/Footer.jsx";
 import ImagePage from "../../../src/components/ImagePage.jsx";
 
-import homecoming from "../../../src/thumbnail-images/knights-homecoming.jpg";
+import homecoming from "../../../src/full-images/paint/homecoming.png";
 
 export default function Homecoming() {
   return (

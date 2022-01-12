@@ -6,7 +6,7 @@ import Navbar from "../../../src/components/Navbar.jsx";
 import Footer from "../../../src/components/Footer.jsx";
 import ImagePage from "../../../src/components/ImagePage.jsx";
 
-import metroid from "../../../src/thumbnail-images/metroid.jpg";
+import metroid from "../../../src/full-images/paint/metroid.jpeg";
 
 export default function Metroid() {
   return (

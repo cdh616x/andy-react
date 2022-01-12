@@ -6,7 +6,7 @@ import Navbar from "../../../src/components/Navbar.jsx";
 import Footer from "../../../src/components/Footer.jsx";
 import ImagePage from "../../../src/components/ImagePage.jsx";
 
-import waterhouse from "../../../src/thumbnail-images/waterhouse.jpg";
+import waterhouse from "../../../src/full-images/paint/waterhouse.png";
 
 export default function Waterhouse() {
   return (

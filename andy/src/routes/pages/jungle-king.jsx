@@ -6,7 +6,7 @@ import Navbar from "../../../src/components/Navbar.jsx";
 import Footer from "../../../src/components/Footer.jsx";
 import ImagePage from "../../../src/components/ImagePage.jsx";
 
-import jungle from "../../../src/thumbnail-images/jungle-king.jpg";
+import jungle from "../../../src/full-images/paint/jungle-lord.jpeg";
 
 export default function Jungle() {
   return (

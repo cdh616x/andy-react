@@ -23,14 +23,14 @@ import rider from "../thumbnail-images/black-rider.jpeg";
 import crossroads from "../thumbnail-images/crossroads.jpg";
 import knight from "../thumbnail-images/knight.jpeg";
 import knightCombat from "../thumbnail-images/knights-in-combat.jpg";
-import thorns from "../thumbnail-images/prince-of-thorns.jpeg";
+import thorns from "../thumbnail-images/prince-thumb2.jpg";
 import saxophone from "../thumbnail-images/saxophone.jpg";
 import serpent from "../thumbnail-images/serpent-slayer.jpg";
-import stalker from "../thumbnail-images/stalker.png";
+import stalker from "../thumbnail-images/stalker1.jpg";
 import stalker2 from "../thumbnail-images/stalker-2.jpg";
 import theodon from "../thumbnail-images/theodon-poisoned.jpg";
 import cowboy from "../full-images/ink/cowboy.jpeg";
-import forest from "../full-images/ink/forest-path.jpeg";
+import forest from "../thumbnail-images/forest1.jpg";
 
 export default function InkGallery() {
   return (
@@ -39,13 +39,13 @@ export default function InkGallery() {
     <h1 className="page-title">Ink Drawings Gallery</h1>
     <div className="row">
      <GalleryItem src={arrowhead} title="Arrowhead" href="#/ink-gallery/arrowhead" />
-     <GalleryItem src={knightsword} title="Knight Presenting his Sword" href="/ink-gallery/knight-sword" />
-     <GalleryItem src={isle} title="Isle of the Dead" href="/ink-gallery/isle-of-the-dead" />
+     <GalleryItem src={knightsword} title="Knight Presenting his Sword" href="#/ink-gallery/knight-sword" />
+     <GalleryItem src={isle} title="Isle of the Dead" href="#/ink-gallery/isle-of-the-dead" />
     </div>
     <div className="row">
      <GalleryItem src={archer} title="Archer" href="#/ink-gallery/archer" />
-     <GalleryItem src={fairy} title="Fairy Princess" href ="/ink-gallery/fairy-princess" />
-     <GalleryItem src={lost} title="Lost Somehow" href="/ink-gallery/lost-somehow" />
+     <GalleryItem src={fairy} title="Fairy Princess" href ="#/ink-gallery/fairy-princess" />
+     <GalleryItem src={lost} title="Lost Somehow" href="#/ink-gallery/lost-somehow" />
     </div>
     <div className="row">
      <GalleryItem src={battle} title="Battle" href="#/ink-gallery/battle" />
