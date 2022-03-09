@@ -29,7 +29,11 @@ export default function Navbar() {
           <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
             <li><a className="dropdown-item" href="#/ink-gallery">Ink Drawings</a></li>
             <li><a className="dropdown-item" href="#/paintings">Paintings</a></li>
+
           </ul>
+        </li>
+        <li className="nav-item">
+         <a className="nav-link" href="#/contact">Contact</a>
         </li>
         <li className="nav-item shop-button">
           <a className="nav-link shop" href="#/shop">Shop</a>

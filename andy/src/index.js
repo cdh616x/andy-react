@@ -16,6 +16,7 @@ import reportWebVitals from './reportWebVitals';
 import InkGallery from "./routes/ink-gallery.jsx";
 import Paintings from "./routes/paintings.jsx";
 import Shop from "./routes/shop.jsx";
+import Contact from "./routes/contact.jsx";
 
 import Arrowhead from "./routes/pages/arrowhead.jsx";
 import KnightSword from "./routes/pages/knight-presenting-his-sword.jsx";
@@ -66,6 +67,7 @@ render (
     <Route path="/ink-gallery" element={<InkGallery />} />
     <Route path="/paintings" element={<Paintings />} />
     <Route path="/shop" element={<Shop />} />
+    <Route path="/contact" element={<Contact />} />
 
     <Route path="/ink-gallery/arrowhead" element={<Arrowhead />} />
     <Route path="/ink-gallery/knight-sword" element={<KnightSword />} />
