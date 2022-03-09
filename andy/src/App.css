@@ -133,3 +133,7 @@ iframe {
 .copyright {
   font-family: "Kudajets", sans-serif;
 }
+
+img {
+  pointer-events: none;
+}

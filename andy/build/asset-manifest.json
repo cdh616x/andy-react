@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/andy-react/static/css/main.844da163.css",
-    "main.js": "/andy-react/static/js/main.e64ae3a8.js",
+    "main.css": "/andy-react/static/css/main.279fb92a.css",
+    "main.js": "/andy-react/static/js/main.fa260efd.js",
     "static/js/787.48bacf42.chunk.js": "/andy-react/static/js/787.48bacf42.chunk.js",
     "static/media/self-portrait.jpg": "/andy-react/static/media/self-portrait.b8a26df553d7779ad920.jpg",
     "static/media/pickmans-model.png": "/andy-react/static/media/pickmans-model.19e574ec88d4618951ef.png",
@@ -89,12 +89,12 @@
     "static/media/knight.jpeg": "/andy-react/static/media/knight.2ec17f76ee6939bfc2b2.jpeg",
     "static/media/knight2.jpeg": "/andy-react/static/media/knight2.2ec17f76ee6939bfc2b2.jpeg",
     "index.html": "/andy-react/index.html",
-    "main.844da163.css.map": "/andy-react/static/css/main.844da163.css.map",
-    "main.e64ae3a8.js.map": "/andy-react/static/js/main.e64ae3a8.js.map",
+    "main.279fb92a.css.map": "/andy-react/static/css/main.279fb92a.css.map",
+    "main.fa260efd.js.map": "/andy-react/static/js/main.fa260efd.js.map",
     "787.48bacf42.chunk.js.map": "/andy-react/static/js/787.48bacf42.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.844da163.css",
-    "static/js/main.e64ae3a8.js"
+    "static/css/main.279fb92a.css",
+    "static/js/main.fa260efd.js"
   ]
 }

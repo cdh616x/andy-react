@@ -51,8 +51,8 @@ export default function Painting() {
       </div>
       <div className="row">
        <GalleryItem src={desk} title="Desk Still Life" href="#/paintings/desk-still-life" />
-       <GalleryItem src={vestig} title="Vestige Album Covers" href="#/paintings/vestige" />
-       <GalleryItem src={brush} title="Brush Studies" href="#/paintings/brush-studies" />
+       <GalleryItem src={vestig} title="Vestigial Album Covers" href="#/paintings/vestigial" />
+       <GalleryItem src={brush} title="Digital MixerBrush Studies" href="#/paintings/digital-mixerbrush-studies" />
       </div>
      <Footer />
     </>

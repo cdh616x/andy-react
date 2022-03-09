@@ -25,7 +25,7 @@ export default function Brush() {
     <ImagePage src={frodo} title="Frodo" />
     <ImagePage src={girl} title="Girl" />
     <ImagePage src={jester} title="Jester" />
-    <ImagePage src={mixer} title="Mixerbrush Study" />
+    <ImagePage src={mixer} title="Sorolla Study - El Pescador" />
     <ImagePage src={mustard} title="Mustard Plug" />
     <ImagePage src={pickman} title="Pickman's Model" />
     <ImagePage src={rush} title="Rush" />
