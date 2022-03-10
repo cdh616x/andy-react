@@ -37,7 +37,7 @@ export default function Carousel() {
     <div className="carousel-item active" data-bs-interval="8000">
      <div className="row">
       <CarouselItem src={archer} title="Archer" href="#/ink-gallery/archer" />
-      <CarouselItem src={knightsword} title="Knight" href="#/paintings/knight-study" />
+      <CarouselItem src={knightsword} title="Knight" href="#/ink-gallery/knight-sword" />
       <CarouselItem src={arrowhead} title="Arrowhead" href="#/ink-gallery/arrowhead" />
      </div>
      </div>
