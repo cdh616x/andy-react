@@ -1,6 +1,12 @@
 //jshint esversion:6
 import React from "react";
 
+//self
+import active from "../full-images/self/active.jpg";
+import con from "../full-images/self/con.jpg";
+import level from "../full-images/self/level.jpg";
+import wall from "../full-images/self/wall.jpg";
+
 //prints
 import arrowhead from "../thumbnail-images/arrowhead.jpg";
 import archer from "../thumbnail-images/archer.jpg";
@@ -31,7 +37,7 @@ export default function Carousel() {
     <div className="carousel-item active" data-bs-interval="8000">
      <div className="row">
       <CarouselItem src={archer} title="Archer" href="#/ink-gallery/archer" />
-      <CarouselItem src={knightstudy} title="Knight" href="#/paintings/knight-study" />
+      <CarouselItem src={knightsword} title="Knight" href="#/paintings/knight-study" />
       <CarouselItem src={arrowhead} title="Arrowhead" href="#/ink-gallery/arrowhead" />
      </div>
      </div>

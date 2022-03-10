@@ -65,10 +65,10 @@ html, body {
 }
 
 .card {
-  background-color: white;
+  background-color: #EEEBDE;
   border-width: 0;
   width: 33%;
-  padding: 0;
+  padding: 0 2% 0;
   margin: 0;
 }
 

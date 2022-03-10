@@ -17,7 +17,7 @@ export default function Footer() {
     <a href="https://www.youtube.com/channel/UCq9PE43PtA_Ve7qO6PK4cKg">
       <i class="fab fa-youtube"></i>
     </a>
-    <a href="#" target="_blank">
+    <a href="https://twitter.com/andyshawillustr" target="_blank">
       <i class="fab fa-twitter-square"></i>
     </a>
     </h2>
