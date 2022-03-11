@@ -40,7 +40,7 @@ export default function Painting() {
        <GalleryItem src={waterhouse} title="Waterhouse Study - Lamia" href="#/paintings/waterhouse" />
       </div>
       <div className="row">
-       <GalleryItem src={metroid} title="Metroid v4" href="#/paintings/metroid" />
+       <GalleryItem src={metroid} title="Metroid Prime" href="#/paintings/metroid" />
        <GalleryItem src={neon} title="Neon Sign" href="#/paintings/neon-sign" />
        <GalleryItem src={jungle} title="Jungle King" href="#/paintings/jungle-king" />
       </div>
