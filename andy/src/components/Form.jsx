@@ -37,7 +37,7 @@ export default function ContactForm() {
       <div>
         <textarea id="message" placeholder="Please construct your message here!" required />
       </div>
-      <button class="submit" type="submit">{status}</button>
+      <button className="submit" type="submit">{status}</button>
     </form>
   );
 };

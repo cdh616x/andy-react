@@ -42,7 +42,13 @@ export default function Shop() {
       <GalleryItem src={cowboy} title="Cowboy Contemplates the Storm" print="8 x 8 || 6 x 6" href="#/ink-gallery/cowboy" />
       <GalleryItem src={fairy} title="Fairy Princess" print="7 x 9 || 5 x 7" href="#/ink-gallery/fairy-princess" />
      </div>
-     <Form />
+     <div className="row">
+     <div className="col-lg-6">
+     </div>
+     <div className="col-lg-6">
+      <Form />
+     </div>
+     </div>
      <Footer />
     </>
   );
