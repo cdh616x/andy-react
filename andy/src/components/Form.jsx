@@ -32,7 +32,7 @@ export default function ContactForm() {
         <input type="text" id="name" placeholder="Name" required />
       </div>
       <div>
-        <input type="email" id="email" placeholder="polyethelene_pam@abbeyroadstudios.com" required />
+        <input type="email" id="email" placeholder="Return email address" required />
       </div>
       <div>
         <textarea id="message" placeholder="Please construct your message here!" required />

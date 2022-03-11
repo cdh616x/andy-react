@@ -12,13 +12,13 @@ export default function Footer() {
     </div>
     <h2>
     <a href="https://www.instagram.com/andyshawillustrations/" target="_blank">
-      <i class="fab fa-instagram-square"></i>
+      <i className="fab fa-instagram-square"></i>
     </a>
     <a href="https://www.youtube.com/channel/UCq9PE43PtA_Ve7qO6PK4cKg">
-      <i class="fab fa-youtube"></i>
+      <i className="fab fa-youtube"></i>
     </a>
     <a href="https://twitter.com/andyshawillustr" target="_blank">
-      <i class="fab fa-twitter-square"></i>
+      <i className="fab fa-twitter-square"></i>
     </a>
     </h2>
     <h5 className="copyright">Andy Shaw © {year + 1900}</h5>
