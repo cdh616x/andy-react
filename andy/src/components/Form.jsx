@@ -27,6 +27,8 @@ export default function ContactForm() {
     console.log(result);
   };
   return (
+    <>
+    <h1>Send me an email!</h1>
     <form onSubmit={handleSubmit}>
       <div>
         <input type="text" id="name" placeholder="Name" required />
@@ -39,5 +41,6 @@ export default function ContactForm() {
       </div>
       <button className="submit" type="submit">{status}</button>
     </form>
+    </>
   );
 };
