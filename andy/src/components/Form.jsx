@@ -22,7 +22,7 @@ export default function ContactForm() {
       },
       body: JSON.stringify(details)
     });
-    setStatus("Submit");
+    setStatus("Thank you for your email!");
     let result = await response.json();
     console.log(result);
   };
