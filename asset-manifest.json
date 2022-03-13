@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/andy-react/static/css/main.dc5e5401.css",
+    "main.css": "/andy-react/static/css/main.2f41c79a.css",
     "main.js": "/andy-react/static/js/main.854975ee.js",
     "static/js/787.48bacf42.chunk.js": "/andy-react/static/js/787.48bacf42.chunk.js",
     "static/media/self-portrait.jpg": "/andy-react/static/media/self-portrait.b8a26df553d7779ad920.jpg",
@@ -93,12 +93,12 @@
     "static/media/knight.jpeg": "/andy-react/static/media/knight.2ec17f76ee6939bfc2b2.jpeg",
     "static/media/knight2.jpeg": "/andy-react/static/media/knight2.2ec17f76ee6939bfc2b2.jpeg",
     "index.html": "/andy-react/index.html",
-    "main.dc5e5401.css.map": "/andy-react/static/css/main.dc5e5401.css.map",
+    "main.2f41c79a.css.map": "/andy-react/static/css/main.2f41c79a.css.map",
     "main.854975ee.js.map": "/andy-react/static/js/main.854975ee.js.map",
     "787.48bacf42.chunk.js.map": "/andy-react/static/js/787.48bacf42.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc5e5401.css",
+    "static/css/main.2f41c79a.css",
     "static/js/main.854975ee.js"
   ]
 }
