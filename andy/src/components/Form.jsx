@@ -3,7 +3,7 @@
 import React, { useState } from "react";
 
 export default function ContactForm() {
-  const [title, setTitle] = useState("Please send me an email!");
+  const [title, setTitle] = useState("Send me an email!");
   const [status, setStatus] = useState("Submit");
   const handleSubmit = async (e) => {
     e.preventDefault();
