@@ -79,6 +79,10 @@ html, body {
   text-decoration: none;
 }
 
+.artwork-title {
+  font-size: 2vw;
+}
+
 .card-title:hover {
   text-decoration: underline;
 }
@@ -102,9 +106,10 @@ html, body {
 }
 
 iframe {
-  padding-left: 2%;
-  padding-right: 2%;
   text-align: center;
+  width: 80vh;
+  height: 40vh;
+  overflow-x: hidden;
 }
 
 .about {

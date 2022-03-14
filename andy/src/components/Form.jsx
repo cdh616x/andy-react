@@ -3,6 +3,7 @@
 import React, { useState } from "react";
 
 export default function ContactForm() {
+  const [title, setTitle] = useState("Please send me an email!");
   const [status, setStatus] = useState("Submit");
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -22,13 +23,15 @@ export default function ContactForm() {
       },
       body: JSON.stringify(details)
     });
-    setStatus("Thank you for your email!");
+    setStatus("Submit");
+    setTitle("Thank you for your email!");
+
     let result = await response.json();
     console.log(result);
   };
   return (
     <>
-    <h1>Send me an email!</h1>
+    <h1>{title}</h1>
     <form onSubmit={handleSubmit}>
       <div>
         <input type="text" id="name" placeholder="Name" required />

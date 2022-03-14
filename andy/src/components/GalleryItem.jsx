@@ -11,7 +11,7 @@ export default function GalleryItem(props) {
      </a>
      <div className="card-title">
      <a href={props.href} target="_blank">
-     <h3>{props.title}</h3>
+     <h3 className="artwork-title">{props.title}</h3>
      </a>
      <h4 className="print">{props.print}</h4>
      </div>
