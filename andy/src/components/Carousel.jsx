@@ -2,10 +2,10 @@
 import React from "react";
 
 //self
-import active from "../full-images/self/active.jpg";
-import con from "../full-images/self/con.jpg";
+import chairs from "../full-images/self/chairs.jpg";
+import con from "../full-images/self/convention.jpg";
 import level from "../full-images/self/level.jpg";
-import wall from "../full-images/self/wall.jpg";
+import storm from "../full-images/self/storm.jpg";
 
 //prints
 import arrowhead from "../thumbnail-images/arrowhead.jpg";
@@ -37,28 +37,28 @@ export default function Carousel() {
     <div className="carousel-item active" data-bs-interval="8000">
      <div className="row">
       <CarouselItem src={archer} title="Archer" href="#/ink-gallery/archer" />
-      <CarouselItem src={knightsword} title="Knight" href="#/ink-gallery/knight-sword" />
+      <CarouselItem src={storm} title="Storm Drain" />
       <CarouselItem src={arrowhead} title="Arrowhead" href="#/ink-gallery/arrowhead" />
      </div>
      </div>
      <div className="carousel-item" data-bs-interval="8000">
       <div className="row">
       <CarouselItem src={deathsprocession} title="Death's Procession" href="#/ink-gallery/deaths-procession" />
-      <CarouselItem src={fairy} title="Fairy Princess" href="#/ink-gallery/fairy-princess" />
+      <CarouselItem src={level} title="Level" />
       <CarouselItem src={isle} title="Isle of the Dead" href="#/ink-gallery/isle-of-the-dead" />
       </div>
     </div>
     <div className="carousel-item" data-bs-interval="8000">
      <div className="row">
      <CarouselItem src={metroid} title="Metroid Prime" href="#/paintings/metroid" />
-     <CarouselItem src={neon} title="Neon Sign" href="#/paintings/neon-sign" />
+     <CarouselItem src={chairs} title="Compilation" />
      <CarouselItem src={jungle} title="Jungle King" href="paintings/jungle-king" />
      </div>
    </div>
    <div className="carousel-item" data-bs-interval="8000">
     <div className="row">
     <CarouselItem src={knightsword} title="Knight Presenting his Sword" href="#/ink-gallery/knight-sword" />
-    <CarouselItem src={lost} title="Lost Somehow" href="#/ink-gallery/lost-somehow" />
+    <CarouselItem src={con} title="Convention Floor" />
     <CarouselItem src={homecoming} title="A Young Knight's Homecoming" href="#/paintings/knights-homecoming" />
     </div>
   </div>

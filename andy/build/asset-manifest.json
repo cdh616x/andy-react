@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/andy-react/static/css/main.2f613e5b.css",
-    "main.js": "/andy-react/static/js/main.8bff82e6.js",
+    "main.js": "/andy-react/static/js/main.c1cbc99c.js",
     "static/js/787.48bacf42.chunk.js": "/andy-react/static/js/787.48bacf42.chunk.js",
     "static/media/self-portrait.jpg": "/andy-react/static/media/self-portrait.b8a26df553d7779ad920.jpg",
     "static/media/pickmans-model.png": "/andy-react/static/media/pickmans-model.19e574ec88d4618951ef.png",
@@ -15,7 +15,6 @@
     "static/media/self-portrait.jpeg": "/andy-react/static/media/self-portrait.f95ec5d12e2c50b6667d.jpeg",
     "static/media/metroid.jpg": "/andy-react/static/media/metroid.4f0056e6b8494d2b01cb.jpg",
     "static/media/forest-path.jpeg": "/andy-react/static/media/forest-path.70a6e318c10c05e4f5b0.jpeg",
-    "static/media/active.jpg": "/andy-react/static/media/active.5fbc4264430531ef3aa5.jpg",
     "static/media/brush-thumb.png": "/andy-react/static/media/brush-thumb.a77c79929167b5551527.png",
     "static/media/serpent-slayer.jpg": "/andy-react/static/media/serpent-slayer.1b07741c6bf2a2a3c429.jpg",
     "static/media/banner.png": "/andy-react/static/media/banner.55e61feb3047b73283ea.png",
@@ -78,27 +77,28 @@
     "static/media/aragorn.jpeg": "/andy-react/static/media/aragorn.11386c44086836315f75.jpeg",
     "static/media/jungle-lord.jpeg": "/andy-react/static/media/jungle-lord.faea674fea8f143dfb82.jpeg",
     "static/media/frodo.jpeg": "/andy-react/static/media/frodo.56893a2da2cbf90ee8d6.jpeg",
-    "static/media/con.jpg": "/andy-react/static/media/con.9721306f8f1e4e3370d5.jpg",
     "static/media/crown-of-serpents.jpeg": "/andy-react/static/media/crown-of-serpents.cb6000343d2c431f06ef.jpeg",
     "static/media/stalker.jpeg": "/andy-react/static/media/stalker.c15dc87870921cb94134.jpeg",
     "static/media/black-rider.jpeg": "/andy-react/static/media/black-rider.fefdab19b3f1a964ec87.jpeg",
-    "static/media/level.jpg": "/andy-react/static/media/level.cf2362331626d66ef81c.jpg",
     "static/media/mixerbrush-studies.jpeg": "/andy-react/static/media/mixerbrush-studies.dedfda6ab000a95a7bc7.jpeg",
     "static/media/banner_text.png": "/andy-react/static/media/banner_text.bbe2c1092084f70b20b6.png",
     "static/media/battle.jpeg": "/andy-react/static/media/battle.1e0065671a1862fe9597.jpeg",
     "static/media/cowboy.jpeg": "/andy-react/static/media/cowboy.3e52ae610524f88103a2.jpeg",
+    "static/media/convention.jpg": "/andy-react/static/media/convention.eb6a01f0863bd461158d.jpg",
+    "static/media/chairs.jpg": "/andy-react/static/media/chairs.3085ad8c0488675b7f3f.jpg",
     "static/media/knightCombat.jpeg": "/andy-react/static/media/knightCombat.2a2cdfe0fc3debdd2a2b.jpeg",
+    "static/media/storm.jpg": "/andy-react/static/media/storm.53a6428a3c18a86c03c0.jpg",
     "static/media/king.jpeg": "/andy-react/static/media/king.e1d8a49957ec9a4ded40.jpeg",
-    "static/media/wall.jpg": "/andy-react/static/media/wall.42dc6f9bc9d8ec0d9a5c.jpg",
+    "static/media/level.jpg": "/andy-react/static/media/level.79ec6a07d7a1fa576707.jpg",
     "static/media/knight.jpeg": "/andy-react/static/media/knight.2ec17f76ee6939bfc2b2.jpeg",
     "static/media/knight2.jpeg": "/andy-react/static/media/knight2.2ec17f76ee6939bfc2b2.jpeg",
     "index.html": "/andy-react/index.html",
     "main.2f613e5b.css.map": "/andy-react/static/css/main.2f613e5b.css.map",
-    "main.8bff82e6.js.map": "/andy-react/static/js/main.8bff82e6.js.map",
+    "main.c1cbc99c.js.map": "/andy-react/static/js/main.c1cbc99c.js.map",
     "787.48bacf42.chunk.js.map": "/andy-react/static/js/787.48bacf42.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f613e5b.css",
-    "static/js/main.8bff82e6.js"
+    "static/js/main.c1cbc99c.js"
   ]
 }
