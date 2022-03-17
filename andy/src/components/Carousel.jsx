@@ -37,28 +37,28 @@ export default function Carousel() {
     <div className="carousel-item active" data-bs-interval="8000">
      <div className="row">
       <CarouselItem src={archer} title="Archer" href="#/ink-gallery/archer" />
-      <CarouselItem src={storm} title="Storm Drain" />
+      <CarouselItem src={storm} title="Lions & Rabbits Storm Drain Initiative" />
       <CarouselItem src={arrowhead} title="Arrowhead" href="#/ink-gallery/arrowhead" />
      </div>
      </div>
      <div className="carousel-item" data-bs-interval="8000">
       <div className="row">
       <CarouselItem src={deathsprocession} title="Death's Procession" href="#/ink-gallery/deaths-procession" />
-      <CarouselItem src={level} title="Level" />
+      <CarouselItem src={level} title="Blue Owl Gallery Show" />
       <CarouselItem src={isle} title="Isle of the Dead" href="#/ink-gallery/isle-of-the-dead" />
       </div>
     </div>
     <div className="carousel-item" data-bs-interval="8000">
      <div className="row">
      <CarouselItem src={metroid} title="Metroid Prime" href="#/paintings/metroid" />
-     <CarouselItem src={chairs} title="Compilation" />
+     <CarouselItem src={chairs} title="Blue Owl Gallery Show" />
      <CarouselItem src={jungle} title="Jungle King" href="paintings/jungle-king" />
      </div>
    </div>
    <div className="carousel-item" data-bs-interval="8000">
     <div className="row">
     <CarouselItem src={knightsword} title="Knight Presenting his Sword" href="#/ink-gallery/knight-sword" />
-    <CarouselItem src={con} title="Convention Floor" />
+    <CarouselItem src={con} title="Grand Rapids Comic Con" />
     <CarouselItem src={homecoming} title="A Young Knight's Homecoming" href="#/paintings/knights-homecoming" />
     </div>
   </div>

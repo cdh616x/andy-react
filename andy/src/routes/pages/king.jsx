@@ -6,7 +6,7 @@ import Navbar from "../../../src/components/Navbar.jsx";
 import Footer from "../../../src/components/Footer.jsx";
 import ImagePage from "../../../src/components/ImagePage.jsx";
 
-import king from "../../../src/full-images/ink/king.jpeg";
+import king from "../../../src/thumbnail-images/king.jpg";
 
 export default function King() {
   return (

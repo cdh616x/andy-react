@@ -17,7 +17,7 @@ import lost from "../thumbnail-images/lost-somehow.jpg";
 
 import battle from "../thumbnail-images/battle.jpg";
 import deathsprocession from "../thumbnail-images/deaths-procession.jpg";
-import king from "../thumbnail-images/king.jpg";
+import king from "../full-images/ink/king.jpeg";
 
 import rider from "../thumbnail-images/black-rider.jpeg";
 import crossroads from "../thumbnail-images/crossroads.jpg";
